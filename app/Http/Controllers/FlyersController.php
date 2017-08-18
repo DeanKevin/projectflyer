@@ -26,8 +26,8 @@ class FlyersController extends Controller
     */
     public function store(Request $request)
     {
-        // create the flyer
-        // $request->all
+        // persist the flyer
+        // redirect the landing page
     }
 
 }
